@@ -2,8 +2,5 @@ allah akber
 aziz
 wahab
 Hakim
-<<<<<<< HEAD
 Karim
-=======
 Qadir
->>>>>>> test
